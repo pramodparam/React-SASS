@@ -1,0 +1,19 @@
+.mainpage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.h1 {
+  color: rgb(146, 12, 5);
+}
+
+.button {
+  width: 200px;
+  height: 40px;
+  background-color: rgb(146, 12, 5);
+  color: rgb(198, 198, 198);
+  font-size: 25px;
+  border: none;
+  margin-left: 15px;
+  border-radius: 8px;
+}/*# sourceMappingURL=Mainpage.css.map */

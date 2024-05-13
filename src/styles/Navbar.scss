@@ -1,0 +1,23 @@
+@import '../variables/Variables.scss';
+
+.navbar{
+    @include navbarStyle();
+    @at-root .links{
+        margin-right: 50px;
+    }
+}
+
+.navbar a {
+    color: $white-color;
+    font-size: 15px;
+    text-decoration: none;
+    font-family:$titleFont;
+    margin: 10px;
+}
+
+
+
+.body{
+    margin: 0%;
+    padding: 0%;
+}
